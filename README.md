@@ -1,3 +1,1 @@
-# tttt
-
 # movie-prevue
